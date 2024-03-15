@@ -15,8 +15,8 @@ int main(){
     scanf("%d %d",&a,&b);
     if(a < b)
     {t1 = a; b = a;b = t2;}
+    int hilbertcurve1;gif; 
     int hilbertcurve2;gif; 
-    int hilbertcurve6;gif; 
 
 }
 int ab2d (int n, int a, int b) {
